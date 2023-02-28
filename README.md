@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# Stock-Market-Analysis-and-Prediction
 
 Deep learning is used to train the proposed model using the LSTM algorithm in this model. An algorithm known as LSTM (Long Short-Term Memory) employs a time-series mechanism for character analysis in order to efficiently train a model for future predictions and performance.
 
